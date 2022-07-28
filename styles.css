@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+    background: linear-gradient(to top right, #cc0066 0%, #ffff00 100%)
+}
+.part1 {
+    background-color: burlywood;
+    border: solid black;
+    outline: auto;
+    width: 500px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn1 {
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+    border: solid black;
+    outline: auto;
+    background-color: chartreuse;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.btn2 {
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+    border: solid black;
+    outline: auto;
+    background-color:indianred;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+/* .btn1:hover {
+    opacity: 1;
+    transform: scale(1.2);
+} */
+
+img {
+    width:25%;
+    padding: 20px ;
+    margin-left:20px ;
+}
+/* img:hover {
+    transform: scale(1.2);
+} */
+h1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif; 
+    font-size: 50px;
+    color:maroon;
+    text-decoration-color: solid;
+    text-decoration-thickness: 3px;
+}
+ h2 {
+    text-align: center;
+    text-shadow: black;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size:40px   
+}  
+
+.top {
+    margin-top: 30px;
+} 
+.bottom {
+    margin-left: 400px ;
+    border: solid black;
+    margin-top: 30px;
+    width: 700px;
+    text-align: center;
+    height: 170px;
+    background-color:darksalmon;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize:none;
+    font-size: 17px;
+    font-size: 20px;
+} 
+.box1 {
+    display: inline-block;
+    margin-right: 100px;  
+}
+.box2 {
+    display: inline-block;
+    margin-right: 100px; 
+    font-size: 30px;
+    color: maroon;  
+}
